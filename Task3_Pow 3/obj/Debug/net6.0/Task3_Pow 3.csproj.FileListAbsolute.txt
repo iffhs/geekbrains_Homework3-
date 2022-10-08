@@ -1,0 +1,15 @@
+D:\Geekbrain homework 3\Task3_Pow 3\bin\Debug\net6.0\Task3_Pow 3.exe
+D:\Geekbrain homework 3\Task3_Pow 3\bin\Debug\net6.0\Task3_Pow 3.deps.json
+D:\Geekbrain homework 3\Task3_Pow 3\bin\Debug\net6.0\Task3_Pow 3.runtimeconfig.json
+D:\Geekbrain homework 3\Task3_Pow 3\bin\Debug\net6.0\Task3_Pow 3.dll
+D:\Geekbrain homework 3\Task3_Pow 3\bin\Debug\net6.0\Task3_Pow 3.pdb
+D:\Geekbrain homework 3\Task3_Pow 3\obj\Debug\net6.0\Task3_Pow 3.csproj.AssemblyReference.cache
+D:\Geekbrain homework 3\Task3_Pow 3\obj\Debug\net6.0\Task3_Pow 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrain homework 3\Task3_Pow 3\obj\Debug\net6.0\Task3_Pow 3.AssemblyInfoInputs.cache
+D:\Geekbrain homework 3\Task3_Pow 3\obj\Debug\net6.0\Task3_Pow 3.AssemblyInfo.cs
+D:\Geekbrain homework 3\Task3_Pow 3\obj\Debug\net6.0\Task3_Pow 3.csproj.CoreCompileInputs.cache
+D:\Geekbrain homework 3\Task3_Pow 3\obj\Debug\net6.0\Task3_Pow 3.dll
+D:\Geekbrain homework 3\Task3_Pow 3\obj\Debug\net6.0\refint\Task3_Pow 3.dll
+D:\Geekbrain homework 3\Task3_Pow 3\obj\Debug\net6.0\Task3_Pow 3.pdb
+D:\Geekbrain homework 3\Task3_Pow 3\obj\Debug\net6.0\Task3_Pow 3.genruntimeconfig.cache
+D:\Geekbrain homework 3\Task3_Pow 3\obj\Debug\net6.0\ref\Task3_Pow 3.dll

@@ -1,0 +1,15 @@
+D:\Geekbrain homework 3\Task 1_Palindrom\bin\Debug\net6.0\Task 1_Palindrom.exe
+D:\Geekbrain homework 3\Task 1_Palindrom\bin\Debug\net6.0\Task 1_Palindrom.deps.json
+D:\Geekbrain homework 3\Task 1_Palindrom\bin\Debug\net6.0\Task 1_Palindrom.runtimeconfig.json
+D:\Geekbrain homework 3\Task 1_Palindrom\bin\Debug\net6.0\Task 1_Palindrom.dll
+D:\Geekbrain homework 3\Task 1_Palindrom\bin\Debug\net6.0\Task 1_Palindrom.pdb
+D:\Geekbrain homework 3\Task 1_Palindrom\obj\Debug\net6.0\Task 1_Palindrom.csproj.AssemblyReference.cache
+D:\Geekbrain homework 3\Task 1_Palindrom\obj\Debug\net6.0\Task 1_Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrain homework 3\Task 1_Palindrom\obj\Debug\net6.0\Task 1_Palindrom.AssemblyInfoInputs.cache
+D:\Geekbrain homework 3\Task 1_Palindrom\obj\Debug\net6.0\Task 1_Palindrom.AssemblyInfo.cs
+D:\Geekbrain homework 3\Task 1_Palindrom\obj\Debug\net6.0\Task 1_Palindrom.csproj.CoreCompileInputs.cache
+D:\Geekbrain homework 3\Task 1_Palindrom\obj\Debug\net6.0\Task 1_Palindrom.dll
+D:\Geekbrain homework 3\Task 1_Palindrom\obj\Debug\net6.0\refint\Task 1_Palindrom.dll
+D:\Geekbrain homework 3\Task 1_Palindrom\obj\Debug\net6.0\Task 1_Palindrom.pdb
+D:\Geekbrain homework 3\Task 1_Palindrom\obj\Debug\net6.0\Task 1_Palindrom.genruntimeconfig.cache
+D:\Geekbrain homework 3\Task 1_Palindrom\obj\Debug\net6.0\ref\Task 1_Palindrom.dll

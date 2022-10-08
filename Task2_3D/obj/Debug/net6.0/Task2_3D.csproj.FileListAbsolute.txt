@@ -1,0 +1,15 @@
+D:\Geekbrain homework 3\Task2_3D\obj\Debug\net6.0\Task2_3D.csproj.AssemblyReference.cache
+D:\Geekbrain homework 3\Task2_3D\obj\Debug\net6.0\Task2_3D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrain homework 3\Task2_3D\obj\Debug\net6.0\Task2_3D.AssemblyInfoInputs.cache
+D:\Geekbrain homework 3\Task2_3D\obj\Debug\net6.0\Task2_3D.AssemblyInfo.cs
+D:\Geekbrain homework 3\Task2_3D\obj\Debug\net6.0\Task2_3D.csproj.CoreCompileInputs.cache
+D:\Geekbrain homework 3\Task2_3D\bin\Debug\net6.0\Task2_3D.exe
+D:\Geekbrain homework 3\Task2_3D\bin\Debug\net6.0\Task2_3D.deps.json
+D:\Geekbrain homework 3\Task2_3D\bin\Debug\net6.0\Task2_3D.runtimeconfig.json
+D:\Geekbrain homework 3\Task2_3D\bin\Debug\net6.0\Task2_3D.dll
+D:\Geekbrain homework 3\Task2_3D\bin\Debug\net6.0\Task2_3D.pdb
+D:\Geekbrain homework 3\Task2_3D\obj\Debug\net6.0\Task2_3D.dll
+D:\Geekbrain homework 3\Task2_3D\obj\Debug\net6.0\refint\Task2_3D.dll
+D:\Geekbrain homework 3\Task2_3D\obj\Debug\net6.0\Task2_3D.pdb
+D:\Geekbrain homework 3\Task2_3D\obj\Debug\net6.0\Task2_3D.genruntimeconfig.cache
+D:\Geekbrain homework 3\Task2_3D\obj\Debug\net6.0\ref\Task2_3D.dll
